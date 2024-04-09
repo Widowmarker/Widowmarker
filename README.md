@@ -2,12 +2,14 @@
 
 ![Elsa.jpg](https://s2.loli.net/2022/11/18/hfwnNQZYzcgACvk.jpg)
 
-<div style="display: flex; width: 100%; justify-content: space-around;">
+<div>
     <img width="100px" src="imgs/nintendo.svg" />
+    <img width="100px" src="imgs/xbox.svg" />
     <img width="100px" src="imgs/playstation4.svg" />
 </div>
-<div style="display: flex; width: 100%; justify-content: space-around;">
+<div>
     <img width="100px" src="imgs/nintendoswitch.svg" />
+    <img width="100px" src="imgs/xbox.svg" />
     <img width="100px" src="imgs/playstation.svg" />
 </div>
 
