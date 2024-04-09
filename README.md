@@ -1,11 +1,15 @@
-### Frozen ❄️
+### ❄️ Frozen ❄️
 
 ![Elsa.jpg](https://s2.loli.net/2022/11/18/hfwnNQZYzcgACvk.jpg)
 
-<img src="imgs/nintendo.svg" />
-<img src="imgs/nintendoswitch.svg" />
-<img src="imgs/playstation.svg" />
-<img src="imgs/playstation4.svg" />
+<div style="display: flex; width: 100%; justify-content: space-around;">
+    <img width="100px" src="imgs/nintendo.svg" />
+    <img width="100px" src="imgs/playstation4.svg" />
+</div>
+<div style="display: flex; width: 100%; justify-content: space-around;">
+    <img width="100px" src="imgs/nintendoswitch.svg" />
+    <img width="100px" src="imgs/playstation.svg" />
+</div>
 
 <!--
 **Widowmarker/Widowmarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
